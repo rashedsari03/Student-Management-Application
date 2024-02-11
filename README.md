@@ -4,10 +4,16 @@ This project is a Student Management Application developed using Python's Tkinte
 Key Features:
 
 User Interface: The application provides a user-friendly interface with labeled entry fields, buttons, and dropdown menus for ease of interaction.
+
 Data Validation: It includes validation checks, such as validating email addresses using regular expressions, and ensuring data integrity.
+
 Database Integration: The application connects to a MySQL database to store and retrieve student information, utilizing CRUD (Create, Read, Update, Delete) operations.
+
 Functionality: Users can add, delete, update, and search for students within the application. The interface dynamically updates to reflect changes made to the database.
+
 About Us: The application includes an "About Us" feature, displaying information about the developer and the version of the application.
+
+
 Deployment:
 To deploy this application, users would need to have Python and MySQL installed on their systems. They would also need to create a MySQL database named "students" with a table named "stu" containing columns for student ID, name, email, phone, gender, and address. Once the database is set up, users can run the provided Python script to launch the application.
 ------------------------------------------------------------------------------------------------------------------------------------------------
