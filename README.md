@@ -1,6 +1,6 @@
 
 This project is a Student Management Application developed using Python's Tkinter library for the graphical user interface (GUI) and MySQL database for data storage. The application allows users to perform various operations related to student management, such as adding new students, deleting existing students, updating student data, searching for students, and viewing all students' information.
-
+------------------------------------------------------------------------------------------------------------------------------------------------
 Key Features:
 
 User Interface: The application provides a user-friendly interface with labeled entry fields, buttons, and dropdown menus for ease of interaction.
@@ -10,7 +10,7 @@ Functionality: Users can add, delete, update, and search for students within the
 About Us: The application includes an "About Us" feature, displaying information about the developer and the version of the application.
 Deployment:
 To deploy this application, users would need to have Python and MySQL installed on their systems. They would also need to create a MySQL database named "students" with a table named "stu" containing columns for student ID, name, email, phone, gender, and address. Once the database is set up, users can run the provided Python script to launch the application.
--------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 To set up the Student Management Application to work on any device, including connecting it to a MySQL database via XAMPP, follow these steps:
 
