@@ -18,9 +18,11 @@ This project is a Student Management Application developed using Python's Tkinte
 ## Deployment
 
 To deploy this application, users would need to have Python and MySQL installed on their systems. They would also need to create a MySQL database named "students" with a table named "stu" containing columns for student ID, name, email, phone, gender, and address. Once the database is set up, users can run the provided Python script to launch the application.
-------------------------------------------------------------------------------------------------------------------------------------------------
 
-To set up the Student Management Application to work on any device, including connecting it to a MySQL database via XAMPP, follow these steps:
+
+
+
+#### To set up the Student Management Application to work on any device, including connecting it to a MySQL database via XAMPP, follow these steps:
 
 ### Prerequisites:
 1. **Python**: Ensure Python is installed on your device. You can download and install Python from the official [Python website](https://www.python.org/).
